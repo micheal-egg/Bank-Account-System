@@ -16,14 +16,4 @@ UI Mode: Responsive layout, dark/light theme toggle
 
 API-Driven: All logic (auth, money handling) runs on a Python backend
 
-Layer	Tech Used	Version / Notes
-Frontend	React Native	Expo or CLI (your choice)
-Design	Figma	For prototyping screens and flows
-State Mgmt	React Context / Redux	Manages auth and app state
-Backend	Flask (Python)	REST API for all data and auth
-Database	SQLite / PostgreSQL	Stores users, accounts, and transactions
-Auth	JWT (PyJWT)	Secure user sessions
-API Comm	Axios (React Native)	Frontend ↔ Backend via HTTP
-Deployment	Render / Fly.io / Railway	Deploy Flask backend
-Testing	Postman + Jest	API and UI testing
-Versioning	Git + GitHub	For source control and collaboration
+
