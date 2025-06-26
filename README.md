@@ -1,6 +1,6 @@
-# Miki-Bank-App
+# Zeon-Bank-App
 
-The Mikis Banking App is a secure, modern mobile application built using React Native for the frontend and Flask (Python) for the backend API. This full-stack project simulates a real-world mobile banking experience, offering users a seamless way to manage their accounts, perform transactions, and view financial history—right from their phone.
+The Zeon Banking App is a secure, modern mobile application built using React Native for the frontend and Flask (Python) for the backend API. This full-stack project simulates a real-world mobile banking experience, offering users a seamless way to manage their accounts, perform transactions, and view financial history—right from their phone.
 
 Designed for performance and scalability, the app uses secure API calls, local + cloud storage, and responsive layouts based Figma designs. 
 
